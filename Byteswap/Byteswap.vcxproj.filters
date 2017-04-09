@@ -15,18 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ObjectParser.h">
+    <ClInclude Include="Byteswap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="FieldParser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Byteswap.h">
+    <ClInclude Include="ObjectParser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
